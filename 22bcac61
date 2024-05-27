@@ -2,7 +2,7 @@ Imports System
 Module Module1
    'This program will display Hello World 
    Sub Main()
-      Console.WriteLine("heyyy")
+      Console.WriteLine("hooooo")
       Console.ReadKey()
    End Sub
 End Module
